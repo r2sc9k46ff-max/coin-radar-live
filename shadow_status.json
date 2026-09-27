@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-09-27T21:36:20.097331+00:00",
+  "generated_utc": "2026-09-27T21:37:31.597176+00:00",
   "version": "v3.1R-shadow-research",
   "mode": "PAPER_ONLY",
   "order_routing": false,
@@ -20,11 +20,11 @@
       "bar_time_utc": "2026-09-27T21:30:00+00:00",
       "close": 0.03373,
       "score": 0.9998219705445965,
-      "state": "ARMED",
+      "state": "ARMED_SOFT",
       "oi_status": "OK",
-      "oi_contracts": 186453833.0,
-      "oi60_change_pct": 0.8524237268177304,
-      "oi_gt_050": true,
+      "oi_contracts": 185823041.0,
+      "oi60_change_pct": 0.10136673191500911,
+      "oi_gt_050": false,
       "oi_gt_100": false
     },
     "CHZUSDT": {
@@ -44,9 +44,9 @@
       "score": 0.4418472545286308,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 23445008.3,
-      "oi60_change_pct": 0.3896487205792498,
-      "oi_gt_050": false,
+      "oi_contracts": 23473466.5,
+      "oi60_change_pct": 0.5014693739536558,
+      "oi_gt_050": true,
       "oi_gt_100": false
     },
     "SANDUSDT": {
@@ -77,8 +77,8 @@
       "score": 0.4390695684426477,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 38434280.0,
-      "oi60_change_pct": -0.23281867801219214,
+      "oi_contracts": 38453621.0,
+      "oi60_change_pct": -0.059999937104804335,
       "oi_gt_050": false,
       "oi_gt_100": false
     },
@@ -88,8 +88,8 @@
       "score": 0.22354931031493155,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 426066.5,
-      "oi60_change_pct": -0.3745193119338852,
+      "oi_contracts": 425925.2,
+      "oi60_change_pct": -0.4084438541686164,
       "oi_gt_050": false,
       "oi_gt_100": false
     },
@@ -143,8 +143,8 @@
       "score": 0.3123992854961784,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 181105131.4,
-      "oi60_change_pct": -0.623442977816302,
+      "oi_contracts": 181272833.3,
+      "oi60_change_pct": -0.40280017521360234,
       "oi_gt_050": false,
       "oi_gt_100": false
     },
