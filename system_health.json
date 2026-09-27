@@ -1,15 +1,15 @@
 {
-  "generated_utc": "2026-09-27T19:06:31.214084+00:00",
+  "generated_utc": "2026-09-27T19:11:12.294352+00:00",
   "mode": "PAPER_ONLY",
   "order_routing": false,
   "database": {
     "status": "OK",
-    "latest_close_utc": "2026-09-27T19:04:59.999000+00:00",
-    "age_seconds": 91.2,
+    "latest_close_utc": "2026-09-27T19:09:59.999000+00:00",
+    "age_seconds": 72.3,
     "symbol_count": 25
   },
   "pipeline": {
-    "status": "CHECK",
-    "last_health_line": "scan_rc=1 state_rc=0 notify_rc=0 export_rc=0 shadow_rc=0 shadow_log_rc=0 event_log_rc=0 trade_rc=0 shadow_notify_rc=0 eval_rc=0 publish_rc=0"
+    "status": "OK",
+    "last_health_line": "scan_rc=0 state_rc=0 notify_rc=0 export_rc=0 shadow_rc=0 shadow_log_rc=0 event_log_rc=0 trade_rc=0 shadow_notify_rc=0 eval_rc=0 publish_rc=0"
   }
 }
