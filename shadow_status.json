@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-09-27T15:41:18.275635+00:00",
+  "generated_utc": "2026-09-27T15:43:39.346732+00:00",
   "version": "v3.1R-shadow-research",
   "mode": "PAPER_ONLY",
   "order_routing": false,
@@ -9,12 +9,12 @@
       "bar_time_utc": "2026-09-27T15:35:00+00:00",
       "close": 180.14,
       "score": 0.9988960741514967,
-      "state": "WATCH",
+      "state": "ARMED",
       "oi_status": "OK",
-      "oi_contracts": 205690.7,
-      "oi60_change_pct": 0.03584333980166665,
-      "oi_gt_050": false,
-      "oi_gt_100": false
+      "oi_contracts": 209968.8,
+      "oi60_change_pct": 1.1541476231746728,
+      "oi_gt_050": true,
+      "oi_gt_100": true
     },
     "GRTUSDT": {
       "bar_time_utc": "2026-09-27T15:35:00+00:00",
@@ -22,9 +22,9 @@
       "score": 0.6312349860246509,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 149861795.0,
-      "oi60_change_pct": 0.5719054304426985,
-      "oi_gt_050": true,
+      "oi_contracts": 149246084.0,
+      "oi60_change_pct": 0.1274795468239498,
+      "oi_gt_050": false,
       "oi_gt_100": false
     },
     "CHZUSDT": {
@@ -33,8 +33,8 @@
       "score": 0.3387387914421674,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 385476297.0,
-      "oi60_change_pct": 0.591923710318798,
+      "oi_contracts": 385554681.0,
+      "oi60_change_pct": 0.5747313744276061,
       "oi_gt_050": true,
       "oi_gt_100": false
     },
@@ -44,8 +44,8 @@
       "score": 0.5221487050628633,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 23610670.6,
-      "oi60_change_pct": -1.8336055277228036,
+      "oi_contracts": 23613542.7,
+      "oi60_change_pct": -1.9195839734792441,
       "oi_gt_050": false,
       "oi_gt_100": false
     },
@@ -55,8 +55,8 @@
       "score": 0.39201439653294123,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 166569931.0,
-      "oi60_change_pct": -3.193406571500701,
+      "oi_contracts": 166680662.0,
+      "oi60_change_pct": -3.0359989931327935,
       "oi_gt_050": false,
       "oi_gt_100": false
     },
@@ -66,8 +66,8 @@
       "score": 0.4240034989585132,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 27553583.0,
-      "oi60_change_pct": -1.2148279095674286,
+      "oi_contracts": 27512956.0,
+      "oi60_change_pct": -1.0718901041528062,
       "oi_gt_050": false,
       "oi_gt_100": false
     },
@@ -88,8 +88,8 @@
       "score": 0.2790712019860679,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 430607.4,
-      "oi60_change_pct": -1.5331162952574529,
+      "oi_contracts": 430729.6,
+      "oi60_change_pct": -1.3675241858513876,
       "oi_gt_050": false,
       "oi_gt_100": false
     },
@@ -99,8 +99,8 @@
       "score": 0.27746136731292026,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 33990624.2,
-      "oi60_change_pct": -0.9066857174219289,
+      "oi_contracts": 33990708.4,
+      "oi60_change_pct": -0.9170785899587974,
       "oi_gt_050": false,
       "oi_gt_100": false
     },
@@ -143,8 +143,8 @@
       "score": 0.5159773252088413,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 182204283.4,
-      "oi60_change_pct": -0.4067560299443662,
+      "oi_contracts": 182241898.9,
+      "oi60_change_pct": -0.1482219656298911,
       "oi_gt_050": false,
       "oi_gt_100": false
     },
@@ -154,8 +154,8 @@
       "score": 0.25883081987801065,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 172221099.0,
-      "oi60_change_pct": -0.2926682723447094,
+      "oi_contracts": 172169434.0,
+      "oi60_change_pct": -0.2513076249531121,
       "oi_gt_050": false,
       "oi_gt_100": false
     },
@@ -187,8 +187,8 @@
       "score": 0.5060661097140814,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 8811927.0,
-      "oi60_change_pct": 0.3059858764541401,
+      "oi_contracts": 8808949.0,
+      "oi60_change_pct": 0.3054728686301633,
       "oi_gt_050": false,
       "oi_gt_100": false
     }
