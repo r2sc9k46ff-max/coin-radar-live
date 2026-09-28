@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-09-28T06:12:51.881704+00:00",
+  "generated_utc": "2026-09-28T06:14:03.564320+00:00",
   "version": "v3.1R-shadow-research",
   "mode": "PAPER_ONLY",
   "order_routing": false,
@@ -152,11 +152,11 @@
       "bar_time_utc": "2026-09-28T06:05:00+00:00",
       "close": 0.11458,
       "score": 0.8811836559123888,
-      "state": "ARMED",
+      "state": "WATCH",
       "oi_status": "OK",
-      "oi_contracts": 167864159.0,
-      "oi60_change_pct": 0.94282265363963,
-      "oi_gt_050": true,
+      "oi_contracts": 167242802.0,
+      "oi60_change_pct": -2.078015604066996,
+      "oi_gt_050": false,
       "oi_gt_100": false
     },
     "ENAUSDT": {
@@ -176,8 +176,8 @@
       "score": 0.9245624453201982,
       "state": "WATCH",
       "oi_status": "OK",
-      "oi_contracts": 43368040.0,
-      "oi60_change_pct": -1.2423216249148217,
+      "oi_contracts": 43321677.0,
+      "oi60_change_pct": -1.3752250815040057,
       "oi_gt_050": false,
       "oi_gt_100": false
     },
