@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-09-28T17:57:35.013757+00:00",
+  "generated_utc": "2026-09-28T17:59:22.189253+00:00",
   "version": "v3.1R-shadow-research",
   "mode": "PAPER_ONLY",
   "order_routing": false,
@@ -9,12 +9,12 @@
       "bar_time_utc": "2026-09-28T17:50:00+00:00",
       "close": 248.49,
       "score": 0.9999905676683274,
-      "state": "ARMED",
+      "state": "ARMED_SOFT",
       "oi_status": "OK",
-      "oi_contracts": 170076.5,
-      "oi60_change_pct": 3.0554934471038964,
-      "oi_gt_050": true,
-      "oi_gt_100": true
+      "oi_contracts": 167289.9,
+      "oi60_change_pct": 0.2730252274111278,
+      "oi_gt_050": false,
+      "oi_gt_100": false
     },
     "GRTUSDT": {
       "bar_time_utc": "2026-09-28T17:50:00+00:00",
@@ -33,8 +33,8 @@
       "score": 0.6625531882392716,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 359479312.0,
-      "oi60_change_pct": -0.1529747236360679,
+      "oi_contracts": 359463026.0,
+      "oi60_change_pct": -0.21641718255944742,
       "oi_gt_050": false,
       "oi_gt_100": false
     },
@@ -55,8 +55,8 @@
       "score": 0.7318807446608508,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 159497956.0,
-      "oi60_change_pct": -0.463303391957659,
+      "oi_contracts": 159486329.0,
+      "oi60_change_pct": -0.48756164785833667,
       "oi_gt_050": false,
       "oi_gt_100": false
     },
@@ -132,8 +132,8 @@
       "score": 0.8656120438312934,
       "state": "WATCH",
       "oi_status": "OK",
-      "oi_contracts": 4102772.5,
-      "oi60_change_pct": -0.007937904094035275,
+      "oi_contracts": 4102181.3,
+      "oi60_change_pct": -0.21609727814583257,
       "oi_gt_050": false,
       "oi_gt_100": false
     },
@@ -154,8 +154,8 @@
       "score": 0.8217338648893951,
       "state": "WATCH",
       "oi_status": "OK",
-      "oi_contracts": 157928345.0,
-      "oi60_change_pct": -0.6076903077127049,
+      "oi_contracts": 157894434.0,
+      "oi60_change_pct": -0.44382057349079407,
       "oi_gt_050": false,
       "oi_gt_100": false
     },
@@ -176,8 +176,8 @@
       "score": 0.9045679250234898,
       "state": "WATCH",
       "oi_status": "OK",
-      "oi_contracts": 41807302.0,
-      "oi60_change_pct": -0.5351014437330326,
+      "oi_contracts": 41798489.0,
+      "oi60_change_pct": -0.4029869413826326,
       "oi_gt_050": false,
       "oi_gt_100": false
     },
