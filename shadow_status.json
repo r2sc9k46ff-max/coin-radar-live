@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-09-28T00:41:13.275089+00:00",
+  "generated_utc": "2026-09-28T00:42:26.234471+00:00",
   "version": "v3.1R-shadow-research",
   "mode": "PAPER_ONLY",
   "order_routing": false,
@@ -9,11 +9,11 @@
       "bar_time_utc": "2026-09-28T00:35:00+00:00",
       "close": 283.34,
       "score": 0.999999999224958,
-      "state": "ARMED",
+      "state": "ARMED_SOFT",
       "oi_status": "OK",
-      "oi_contracts": 151753.0,
-      "oi60_change_pct": 0.7805272626690396,
-      "oi_gt_050": true,
+      "oi_contracts": 150388.8,
+      "oi60_change_pct": -0.5460455181216184,
+      "oi_gt_050": false,
       "oi_gt_100": false
     },
     "GRTUSDT": {
@@ -44,8 +44,8 @@
       "score": 0.9564246628768804,
       "state": "ARMED",
       "oi_status": "OK",
-      "oi_contracts": 23917323.4,
-      "oi60_change_pct": 0.7100541794827331,
+      "oi_contracts": 23911409.2,
+      "oi60_change_pct": 0.5672660517830774,
       "oi_gt_050": true,
       "oi_gt_100": false
     },
@@ -66,8 +66,8 @@
       "score": 0.5628580143966214,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 27896256.0,
-      "oi60_change_pct": 0.1449065118757087,
+      "oi_contracts": 27899035.0,
+      "oi60_change_pct": 0.15597229539725532,
       "oi_gt_050": false,
       "oi_gt_100": false
     },
@@ -88,8 +88,8 @@
       "score": 0.622019409391337,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 424693.0,
-      "oi60_change_pct": 0.0050627367270905665,
+      "oi_contracts": 424282.4,
+      "oi60_change_pct": -0.05957101800485587,
       "oi_gt_050": false,
       "oi_gt_100": false
     },
@@ -143,8 +143,8 @@
       "score": 0.997306963920202,
       "state": "ARMED",
       "oi_status": "OK",
-      "oi_contracts": 187401000.7,
-      "oi60_change_pct": 2.201238662690752,
+      "oi_contracts": 186857097.6,
+      "oi60_change_pct": 1.8640626366889457,
       "oi_gt_050": true,
       "oi_gt_100": true
     },
@@ -187,8 +187,8 @@
       "score": 0.8676793472071131,
       "state": "WATCH",
       "oi_status": "OK",
-      "oi_contracts": 8707816.0,
-      "oi60_change_pct": 0.006132797812230528,
+      "oi_contracts": 8676713.0,
+      "oi60_change_pct": -0.24467707787829696,
       "oi_gt_050": false,
       "oi_gt_100": false
     }
