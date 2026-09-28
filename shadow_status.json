@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-09-28T21:40:07.799247+00:00",
+  "generated_utc": "2026-09-28T21:42:09.729477+00:00",
   "version": "v3.1R-shadow-research",
   "mode": "PAPER_ONLY",
   "order_routing": false,
@@ -7,9 +7,9 @@
   "symbols": {
     "QNTUSDT": {
       "bar_time_utc": "2026-09-28T21:35:00+00:00",
-      "close": 244.29,
-      "score": 0.9372337143204685,
-      "state": "WATCH",
+      "close": 245.97,
+      "score": 0.9545587764241519,
+      "state": "ARMED_SOFT",
       "oi_status": "OK",
       "oi_contracts": 159929.5,
       "oi60_change_pct": -1.1720599013015254,
@@ -18,31 +18,52 @@
     },
     "GRTUSDT": {
       "bar_time_utc": "2026-09-28T21:35:00+00:00",
-      "close": 0.03068,
-      "score": 0.4058596088143804,
+      "close": 0.03043,
+      "score": 0.5554384546889247,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 192993497.0,
-      "oi60_change_pct": -0.4580255929904853,
+      "oi_contracts": 193033934.0,
+      "oi60_change_pct": -0.39947803022014616,
       "oi_gt_050": false,
       "oi_gt_100": false
     },
     "CHZUSDT": {
-      "state": "INSUFFICIENT_DATA",
-      "score": null
+      "bar_time_utc": "2026-09-28T21:35:00+00:00",
+      "close": 0.01564,
+      "score": 0.24477081545196652,
+      "state": "QUIET",
+      "oi_status": "OK",
+      "oi_contracts": 358107470.0,
+      "oi60_change_pct": 0.30724720989698806,
+      "oi_gt_050": false,
+      "oi_gt_100": false
     },
     "VIRTUALUSDT": {
-      "state": "INSUFFICIENT_DATA",
-      "score": null
+      "bar_time_utc": "2026-09-28T21:35:00+00:00",
+      "close": 0.8155,
+      "score": 0.8863166353452069,
+      "state": "ARMED",
+      "oi_status": "OK",
+      "oi_contracts": 22771936.9,
+      "oi60_change_pct": 0.7290816077060391,
+      "oi_gt_050": true,
+      "oi_gt_100": false
     },
     "SANDUSDT": {
-      "state": "INSUFFICIENT_DATA",
-      "score": null
+      "bar_time_utc": "2026-09-28T21:35:00+00:00",
+      "close": 0.04262,
+      "score": 0.24582741728979138,
+      "state": "QUIET",
+      "oi_status": "OK",
+      "oi_contracts": 158940184.0,
+      "oi60_change_pct": 0.1703309612811399,
+      "oi_gt_050": false,
+      "oi_gt_100": false
     },
     "UNIUSDT": {
       "bar_time_utc": "2026-09-28T21:35:00+00:00",
-      "close": 8.717,
-      "score": 0.2945803950725745,
+      "close": 8.696,
+      "score": 0.3782958464062284,
       "state": "QUIET",
       "oi_status": "OK",
       "oi_contracts": 26737172.0,
@@ -51,13 +72,20 @@
       "oi_gt_100": false
     },
     "MANAUSDT": {
-      "state": "INSUFFICIENT_DATA",
-      "score": null
+      "bar_time_utc": "2026-09-28T21:35:00+00:00",
+      "close": 0.0891,
+      "score": 0.38115858743537595,
+      "state": "QUIET",
+      "oi_status": "OK",
+      "oi_contracts": 39190778.0,
+      "oi60_change_pct": -0.8881850743756359,
+      "oi_gt_050": false,
+      "oi_gt_100": false
     },
     "AAVEUSDT": {
       "bar_time_utc": "2026-09-28T21:35:00+00:00",
-      "close": 147.12,
-      "score": 0.22929475537365,
+      "close": 146.57,
+      "score": 0.2799446923889469,
       "state": "QUIET",
       "oi_status": "OK",
       "oi_contracts": 408125.5,
@@ -66,35 +94,42 @@
       "oi_gt_100": false
     },
     "DOTUSDT": {
-      "state": "INSUFFICIENT_DATA",
-      "score": null
+      "bar_time_utc": "2026-09-28T21:35:00+00:00",
+      "close": 1.168,
+      "score": 0.37605956918045064,
+      "state": "QUIET",
+      "oi_status": "OK",
+      "oi_contracts": 31565492.6,
+      "oi60_change_pct": 0.23148618864381465,
+      "oi_gt_050": false,
+      "oi_gt_100": false
     },
     "ENSUSDT": {
       "bar_time_utc": "2026-09-28T21:35:00+00:00",
-      "close": 6.65,
-      "score": 0.3194341512629464,
+      "close": 6.63,
+      "score": 0.3333773268034979,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 772798.0,
-      "oi60_change_pct": 0.07657276218919762,
+      "oi_contracts": 772443.5,
+      "oi60_change_pct": -0.0009838810508533413,
       "oi_gt_050": false,
       "oi_gt_100": false
     },
     "LTCUSDT": {
       "bar_time_utc": "2026-09-28T21:35:00+00:00",
-      "close": 69.5,
-      "score": 0.26818651558224615,
+      "close": 69.26,
+      "score": 0.35598459097552637,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 1569978.139,
-      "oi60_change_pct": -0.23958629352257566,
+      "oi_contracts": 1568420.937,
+      "oi60_change_pct": -0.36394777648706134,
       "oi_gt_050": false,
       "oi_gt_100": false
     },
     "INJUSDT": {
       "bar_time_utc": "2026-09-28T21:35:00+00:00",
-      "close": 7.309,
-      "score": 0.32900561441476867,
+      "close": 7.28,
+      "score": 0.367316106207998,
       "state": "QUIET",
       "oi_status": "OK",
       "oi_contracts": 4031640.5,
@@ -103,13 +138,20 @@
       "oi_gt_100": false
     },
     "ONDOUSDT": {
-      "state": "INSUFFICIENT_DATA",
-      "score": null
+      "bar_time_utc": "2026-09-28T21:35:00+00:00",
+      "close": 0.5122,
+      "score": 0.4520331433695484,
+      "state": "QUIET",
+      "oi_status": "OK",
+      "oi_contracts": 178044085.7,
+      "oi60_change_pct": 0.13520478939270664,
+      "oi_gt_050": false,
+      "oi_gt_100": false
     },
     "POLUSDT": {
       "bar_time_utc": "2026-09-28T21:35:00+00:00",
-      "close": 0.11582,
-      "score": 0.22404342122568316,
+      "close": 0.11557,
+      "score": 0.25914899097470323,
       "state": "QUIET",
       "oi_status": "OK",
       "oi_contracts": 157613459.0,
@@ -119,8 +161,8 @@
     },
     "ENAUSDT": {
       "bar_time_utc": "2026-09-28T21:35:00+00:00",
-      "close": 0.2577,
-      "score": 0.3192500297645182,
+      "close": 0.2572,
+      "score": 0.34538388085473043,
       "state": "QUIET",
       "oi_status": "OK",
       "oi_contracts": 559132455.0,
@@ -130,8 +172,8 @@
     },
     "LDOUSDT": {
       "bar_time_utc": "2026-09-28T21:35:00+00:00",
-      "close": 0.4425,
-      "score": 0.19958822603328982,
+      "close": 0.4411,
+      "score": 0.21947905099819923,
       "state": "QUIET",
       "oi_status": "OK",
       "oi_contracts": 41301864.0,
@@ -140,8 +182,15 @@
       "oi_gt_100": false
     },
     "PENDLEUSDT": {
-      "state": "INSUFFICIENT_DATA",
-      "score": null
+      "bar_time_utc": "2026-09-28T21:35:00+00:00",
+      "close": 2.356,
+      "score": 0.20154570626682677,
+      "state": "QUIET",
+      "oi_status": "OK",
+      "oi_contracts": 8869588.0,
+      "oi60_change_pct": 0.1267729301525078,
+      "oi_gt_050": false,
+      "oi_gt_100": false
     }
   }
 }
