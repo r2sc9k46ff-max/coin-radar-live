@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-09-28T04:41:10.860876+00:00",
+  "generated_utc": "2026-09-28T04:43:32.545111+00:00",
   "version": "v3.1R-shadow-research",
   "mode": "PAPER_ONLY",
   "order_routing": false,
@@ -9,11 +9,11 @@
       "bar_time_utc": "2026-09-28T04:35:00+00:00",
       "close": 259.74,
       "score": 0.9968613324690082,
-      "state": "ARMED",
+      "state": "ARMED_SOFT",
       "oi_status": "OK",
-      "oi_contracts": 176647.0,
-      "oi60_change_pct": 0.764200920326763,
-      "oi_gt_050": true,
+      "oi_contracts": 176664.5,
+      "oi60_change_pct": -0.5875348745080444,
+      "oi_gt_050": false,
       "oi_gt_100": false
     },
     "GRTUSDT": {
@@ -22,8 +22,8 @@
       "score": 0.944366830396384,
       "state": "WATCH",
       "oi_status": "OK",
-      "oi_contracts": 217885231.0,
-      "oi60_change_pct": -3.1134997567001332,
+      "oi_contracts": 217801283.0,
+      "oi60_change_pct": -3.0815769753798405,
       "oi_gt_050": false,
       "oi_gt_100": false
     },
@@ -33,8 +33,8 @@
       "score": 0.3859666255838001,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 374730695.0,
-      "oi60_change_pct": -0.02876171966378349,
+      "oi_contracts": 374855191.0,
+      "oi60_change_pct": 0.021994661453006437,
       "oi_gt_050": false,
       "oi_gt_100": false
     },
@@ -55,8 +55,8 @@
       "score": 0.5131275499908841,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 165394550.0,
-      "oi60_change_pct": 0.013027519134523047,
+      "oi_contracts": 165325777.0,
+      "oi60_change_pct": 0.0566493787099942,
       "oi_gt_050": false,
       "oi_gt_100": false
     },
@@ -66,9 +66,9 @@
       "score": 0.5752828327205928,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 27504615.0,
-      "oi60_change_pct": 0.5101183733789094,
-      "oi_gt_050": true,
+      "oi_contracts": 27515088.0,
+      "oi60_change_pct": 0.47635462799584527,
+      "oi_gt_050": false,
       "oi_gt_100": false
     },
     "MANAUSDT": {
@@ -99,8 +99,8 @@
       "score": 0.5219075320955354,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 31493189.8,
-      "oi60_change_pct": -0.03728495068473503,
+      "oi_contracts": 31493195.9,
+      "oi60_change_pct": 0.2261654452647477,
       "oi_gt_050": false,
       "oi_gt_100": false
     },
@@ -132,8 +132,8 @@
       "score": 0.6351285608481636,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 4362077.5,
-      "oi60_change_pct": 0.2229565035501535,
+      "oi_contracts": 4362925.6,
+      "oi60_change_pct": 0.1712583485603547,
       "oi_gt_050": false,
       "oi_gt_100": false
     },
@@ -154,8 +154,8 @@
       "score": 0.42481263907378725,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 165633276.0,
-      "oi60_change_pct": -1.3762712893801599,
+      "oi_contracts": 165701752.0,
+      "oi60_change_pct": -0.8359708571669566,
       "oi_gt_050": false,
       "oi_gt_100": false
     },
@@ -165,8 +165,8 @@
       "score": 0.6334746320560767,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 568536126.0,
-      "oi60_change_pct": 0.21862648260753126,
+      "oi_contracts": 569015586.0,
+      "oi60_change_pct": 0.3201793908397699,
       "oi_gt_050": false,
       "oi_gt_100": false
     },
@@ -176,9 +176,9 @@
       "score": 0.7470180306762605,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 43734010.0,
-      "oi60_change_pct": 0.6004511860425721,
-      "oi_gt_050": true,
+      "oi_contracts": 43760803.0,
+      "oi60_change_pct": 0.42105159289280714,
+      "oi_gt_050": false,
       "oi_gt_100": false
     },
     "PENDLEUSDT": {
@@ -187,10 +187,10 @@
       "score": 0.6374539296883072,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 8740231.0,
-      "oi60_change_pct": 0.7712718612538527,
+      "oi_contracts": 8742580.0,
+      "oi60_change_pct": 1.0271451706057588,
       "oi_gt_050": true,
-      "oi_gt_100": false
+      "oi_gt_100": true
     }
   }
 }
