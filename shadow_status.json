@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-09-28T15:57:04.620466+00:00",
+  "generated_utc": "2026-09-28T15:58:41.388346+00:00",
   "version": "v3.1R-shadow-research",
   "mode": "PAPER_ONLY",
   "order_routing": false,
@@ -9,11 +9,11 @@
       "bar_time_utc": "2026-09-28T15:50:00+00:00",
       "close": 221.23,
       "score": 0.9916277879446902,
-      "state": "ARMED_SOFT",
+      "state": "ARMED",
       "oi_status": "OK",
-      "oi_contracts": 164253.9,
-      "oi60_change_pct": -0.31727786756259313,
-      "oi_gt_050": false,
+      "oi_contracts": 165063.0,
+      "oi60_change_pct": 0.5718832787812156,
+      "oi_gt_050": true,
       "oi_gt_100": false
     },
     "GRTUSDT": {
@@ -22,8 +22,8 @@
       "score": 0.7682454714881913,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 199618019.0,
-      "oi60_change_pct": -0.8253995101276557,
+      "oi_contracts": 200500900.0,
+      "oi60_change_pct": -0.22375357310571165,
       "oi_gt_050": false,
       "oi_gt_100": false
     },
@@ -55,8 +55,8 @@
       "score": 0.48444723797980266,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 159731141.0,
-      "oi60_change_pct": -0.4544040460006893,
+      "oi_contracts": 160822833.0,
+      "oi60_change_pct": 0.3448389915180705,
       "oi_gt_050": false,
       "oi_gt_100": false
     },
@@ -66,8 +66,8 @@
       "score": 0.47749982410462344,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 26965557.0,
-      "oi60_change_pct": -0.3158036574268941,
+      "oi_contracts": 26960503.0,
+      "oi60_change_pct": 0.03913178785406313,
       "oi_gt_050": false,
       "oi_gt_100": false
     },
@@ -88,9 +88,9 @@
       "score": 0.5415591355857643,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 409152.9,
-      "oi60_change_pct": -0.5982043423080508,
-      "oi_gt_050": false,
+      "oi_contracts": 408967.8,
+      "oi60_change_pct": 0.5018607824132992,
+      "oi_gt_050": true,
       "oi_gt_100": false
     },
     "DOTUSDT": {
@@ -99,8 +99,8 @@
       "score": 0.45077326284108343,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 31294240.6,
-      "oi60_change_pct": -0.176243684662436,
+      "oi_contracts": 31292274.8,
+      "oi60_change_pct": 0.04837110184259252,
       "oi_gt_050": false,
       "oi_gt_100": false
     },
@@ -165,8 +165,8 @@
       "score": 0.8530567903142733,
       "state": "WATCH",
       "oi_status": "OK",
-      "oi_contracts": 564437759.0,
-      "oi60_change_pct": 0.3313188149880686,
+      "oi_contracts": 564391978.0,
+      "oi60_change_pct": -0.06651868203485511,
       "oi_gt_050": false,
       "oi_gt_100": false
     },
