@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-09-29T00:41:55.170986+00:00",
+  "generated_utc": "2026-09-29T00:44:09.872155+00:00",
   "version": "v3.1R-shadow-research",
   "mode": "PAPER_ONLY",
   "order_routing": false,
@@ -9,11 +9,11 @@
       "bar_time_utc": "2026-09-29T00:35:00+00:00",
       "close": 223.3,
       "score": 0.9935129203003055,
-      "state": "ARMED_SOFT",
+      "state": "ARMED",
       "oi_status": "OK",
-      "oi_contracts": 159313.6,
-      "oi60_change_pct": 0.12745834977889725,
-      "oi_gt_050": false,
+      "oi_contracts": 159812.9,
+      "oi60_change_pct": 0.6423460998571162,
+      "oi_gt_050": true,
       "oi_gt_100": false
     },
     "GRTUSDT": {
@@ -22,8 +22,8 @@
       "score": 0.4429509347330714,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 191711540.0,
-      "oi60_change_pct": -0.088896767800406,
+      "oi_contracts": 191715618.0,
+      "oi60_change_pct": -0.061305335318817544,
       "oi_gt_050": false,
       "oi_gt_100": false
     },
@@ -66,8 +66,8 @@
       "score": 0.27113246588208584,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 26602204.0,
-      "oi60_change_pct": 0.031811993076269474,
+      "oi_contracts": 26639349.0,
+      "oi60_change_pct": 0.1720640134684981,
       "oi_gt_050": false,
       "oi_gt_100": false
     },
@@ -88,8 +88,8 @@
       "score": 0.2902861832600875,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 407722.4,
-      "oi60_change_pct": -0.10261154718024246,
+      "oi_contracts": 407757.8,
+      "oi60_change_pct": -0.10546603124097498,
       "oi_gt_050": false,
       "oi_gt_100": false
     },
@@ -165,8 +165,8 @@
       "score": 0.36369788151490057,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 561148071.0,
-      "oi60_change_pct": 0.3353064950541995,
+      "oi_contracts": 561349835.0,
+      "oi60_change_pct": 0.33925617836001454,
       "oi_gt_050": false,
       "oi_gt_100": false
     },
