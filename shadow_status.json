@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-01T16:57:04.566036+00:00",
+  "generated_utc": "2026-10-01T16:59:50.891639+00:00",
   "version": "v3.1R-shadow-research",
   "mode": "PAPER_ONLY",
   "order_routing": false,
@@ -33,8 +33,8 @@
       "score": 0.43051249344734627,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 366169559.0,
-      "oi60_change_pct": -0.6039674170851272,
+      "oi_contracts": 365828107.0,
+      "oi60_change_pct": -0.6385031130827223,
       "oi_gt_050": false,
       "oi_gt_100": false
     },
@@ -44,8 +44,8 @@
       "score": 0.5234109918751668,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 21334998.3,
-      "oi60_change_pct": -0.36767390045200354,
+      "oi_contracts": 21285840.9,
+      "oi60_change_pct": -0.5685381760856312,
       "oi_gt_050": false,
       "oi_gt_100": false
     },
@@ -53,12 +53,12 @@
       "bar_time_utc": "2026-10-01T16:50:00+00:00",
       "close": 0.0433,
       "score": 0.8123394054475308,
-      "state": "ARMED",
+      "state": "WATCH",
       "oi_status": "OK",
-      "oi_contracts": 168573024.0,
-      "oi60_change_pct": 2.200918563461962,
-      "oi_gt_050": true,
-      "oi_gt_100": true
+      "oi_contracts": 168322854.0,
+      "oi60_change_pct": 0.17078436375566053,
+      "oi_gt_050": false,
+      "oi_gt_100": false
     },
     "UNIUSDT": {
       "bar_time_utc": "2026-10-01T16:50:00+00:00",
@@ -77,9 +77,9 @@
       "score": 0.5060027030512358,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 38571564.0,
-      "oi60_change_pct": 0.5011408514449034,
-      "oi_gt_050": true,
+      "oi_contracts": 38578900.0,
+      "oi60_change_pct": 0.34916157159488037,
+      "oi_gt_050": false,
       "oi_gt_100": false
     },
     "AAVEUSDT": {
@@ -110,8 +110,8 @@
       "score": 0.5140502453263734,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 707835.5,
-      "oi60_change_pct": 0.5623709025339929,
+      "oi_contracts": 708334.7,
+      "oi60_change_pct": 0.6624810103556644,
       "oi_gt_050": true,
       "oi_gt_100": false
     },
@@ -121,8 +121,8 @@
       "score": 0.22444729558248078,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 1479974.332,
-      "oi60_change_pct": 0.3026732421170353,
+      "oi_contracts": 1475698.933,
+      "oi60_change_pct": -0.09721772411901419,
       "oi_gt_050": false,
       "oi_gt_100": false
     },
