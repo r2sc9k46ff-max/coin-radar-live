@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-02T14:32:30.159292+00:00",
+  "generated_utc": "2026-10-02T14:34:17.028144+00:00",
   "version": "v3.1R-shadow-research",
   "mode": "PAPER_ONLY",
   "order_routing": false,
@@ -9,11 +9,11 @@
       "bar_time_utc": "2026-10-02T14:25:00+00:00",
       "close": 249.5,
       "score": 0.9903214276694841,
-      "state": "ARMED_SOFT",
+      "state": "ARMED",
       "oi_status": "OK",
-      "oi_contracts": 171114.7,
-      "oi60_change_pct": 0.07778610225539495,
-      "oi_gt_050": false,
+      "oi_contracts": 172072.9,
+      "oi60_change_pct": 0.6469677153692954,
+      "oi_gt_050": true,
       "oi_gt_100": false
     },
     "GRTUSDT": {
