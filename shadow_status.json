@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-02T11:05:37.221841+00:00",
+  "generated_utc": "2026-10-02T11:07:22.179387+00:00",
   "version": "v3.1R-shadow-research",
   "mode": "PAPER_ONLY",
   "order_routing": false,
@@ -9,11 +9,11 @@
       "bar_time_utc": "2026-10-02T11:00:00+00:00",
       "close": 235.13,
       "score": 0.821366240306443,
-      "state": "ARMED",
+      "state": "WATCH",
       "oi_status": "OK",
-      "oi_contracts": 174507.4,
-      "oi60_change_pct": 0.7437983131180825,
-      "oi_gt_050": true,
+      "oi_contracts": 174013.7,
+      "oi60_change_pct": 0.43657612117933287,
+      "oi_gt_050": false,
       "oi_gt_100": false
     },
     "GRTUSDT": {
@@ -44,8 +44,8 @@
       "score": 0.3951424680112233,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 21586139.6,
-      "oi60_change_pct": -0.09989483112904374,
+      "oi_contracts": 21554068.3,
+      "oi60_change_pct": -0.31451701574557456,
       "oi_gt_050": false,
       "oi_gt_100": false
     },
@@ -55,8 +55,8 @@
       "score": 0.9999292488587521,
       "state": "ARMED",
       "oi_status": "OK",
-      "oi_contracts": 353517945.0,
-      "oi60_change_pct": 9.609519861655302,
+      "oi_contracts": 357140906.0,
+      "oi60_change_pct": 9.072653029247956,
       "oi_gt_050": true,
       "oi_gt_100": true
     },
@@ -77,8 +77,8 @@
       "score": 0.9831011197718967,
       "state": "ARMED",
       "oi_status": "OK",
-      "oi_contracts": 68018546.0,
-      "oi60_change_pct": 7.868573241900534,
+      "oi_contracts": 68168866.0,
+      "oi60_change_pct": 7.457441959917621,
       "oi_gt_050": true,
       "oi_gt_100": true
     },
@@ -99,8 +99,8 @@
       "score": 0.2228138158144641,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 31471305.2,
-      "oi60_change_pct": -0.16918828563859956,
+      "oi_contracts": 31488707.5,
+      "oi60_change_pct": -0.0939754828992001,
       "oi_gt_050": false,
       "oi_gt_100": false
     },
@@ -154,10 +154,10 @@
       "score": 0.13477076420481893,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 189816784.0,
-      "oi60_change_pct": 1.0772470681550406,
+      "oi_contracts": 189838519.0,
+      "oi60_change_pct": 0.6084047138415594,
       "oi_gt_050": true,
-      "oi_gt_100": true
+      "oi_gt_100": false
     },
     "ENAUSDT": {
       "bar_time_utc": "2026-10-02T11:00:00+00:00",
