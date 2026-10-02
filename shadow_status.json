@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-10-02T11:26:31.076882+00:00",
+  "generated_utc": "2026-10-02T11:28:13.114632+00:00",
   "version": "v3.1R-shadow-research",
   "mode": "PAPER_ONLY",
   "order_routing": false,
@@ -9,11 +9,11 @@
       "bar_time_utc": "2026-10-02T11:20:00+00:00",
       "close": 241.66,
       "score": 0.916187141981312,
-      "state": "ARMED",
+      "state": "WATCH",
       "oi_status": "OK",
-      "oi_contracts": 174745.9,
-      "oi60_change_pct": 0.721232822231932,
-      "oi_gt_050": true,
+      "oi_contracts": 174251.8,
+      "oi60_change_pct": 0.3666151543095575,
+      "oi_gt_050": false,
       "oi_gt_100": false
     },
     "GRTUSDT": {
@@ -55,8 +55,8 @@
       "score": 0.9995998698638351,
       "state": "ARMED",
       "oi_status": "OK",
-      "oi_contracts": 362626866.0,
-      "oi60_change_pct": 11.760926829236418,
+      "oi_contracts": 376316721.0,
+      "oi60_change_pct": 15.76464472277106,
       "oi_gt_050": true,
       "oi_gt_100": true
     },
@@ -88,10 +88,10 @@
       "score": 0.3476052515537942,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 490804.3,
-      "oi60_change_pct": 0.8077281961551552,
+      "oi_contracts": 490240.3,
+      "oi60_change_pct": 1.0100587610986977,
       "oi_gt_050": true,
-      "oi_gt_100": false
+      "oi_gt_100": true
     },
     "DOTUSDT": {
       "bar_time_utc": "2026-10-02T11:20:00+00:00",
@@ -132,8 +132,8 @@
       "score": 0.20342184161497373,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 3890058.6,
-      "oi60_change_pct": -0.3989359386872282,
+      "oi_contracts": 3884992.8,
+      "oi60_change_pct": -0.45347944176054034,
       "oi_gt_050": false,
       "oi_gt_100": false
     },
@@ -165,8 +165,8 @@
       "score": 0.31453403018671033,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 567984576.0,
-      "oi60_change_pct": 0.13027884792224942,
+      "oi_contracts": 567742942.0,
+      "oi60_change_pct": 0.091250859199965,
       "oi_gt_050": false,
       "oi_gt_100": false
     },
