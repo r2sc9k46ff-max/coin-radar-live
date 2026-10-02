@@ -1,14 +1,14 @@
 {
-  "generated_utc": "2026-10-02T06:52:11.722456+00:00",
+  "generated_utc": "2026-10-02T06:55:48.045882+00:00",
   "version": "v3.1R-shadow-research",
   "mode": "PAPER_ONLY",
   "order_routing": false,
   "watch_threshold": 0.797430196883001,
   "symbols": {
     "QNTUSDT": {
-      "bar_time_utc": "2026-10-02T06:45:00+00:00",
-      "close": 237.37,
-      "score": 0.955403312636428,
+      "bar_time_utc": "2026-10-02T06:50:00+00:00",
+      "close": 236.81,
+      "score": 0.9575066534279002,
       "state": "ARMED",
       "oi_status": "OK",
       "oi_contracts": 170312.1,
@@ -17,9 +17,9 @@
       "oi_gt_100": false
     },
     "GRTUSDT": {
-      "bar_time_utc": "2026-10-02T06:45:00+00:00",
-      "close": 0.02908,
-      "score": 0.22933404237234745,
+      "bar_time_utc": "2026-10-02T06:50:00+00:00",
+      "close": 0.02902,
+      "score": 0.2536507340334105,
       "state": "QUIET",
       "oi_status": "OK",
       "oi_contracts": 158157085.0,
@@ -28,20 +28,20 @@
       "oi_gt_100": false
     },
     "CHZUSDT": {
-      "bar_time_utc": "2026-10-02T06:45:00+00:00",
+      "bar_time_utc": "2026-10-02T06:50:00+00:00",
       "close": 0.01634,
-      "score": 0.2409649811612544,
+      "score": 0.15564951416154799,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 361598737.0,
-      "oi60_change_pct": -0.11268825329618926,
+      "oi_contracts": 361609088.0,
+      "oi60_change_pct": -0.10878973320960217,
       "oi_gt_050": false,
       "oi_gt_100": false
     },
     "VIRTUALUSDT": {
-      "bar_time_utc": "2026-10-02T06:45:00+00:00",
-      "close": 0.814,
-      "score": 0.42193892436413505,
+      "bar_time_utc": "2026-10-02T06:50:00+00:00",
+      "close": 0.8136,
+      "score": 0.39837303630618265,
       "state": "QUIET",
       "oi_status": "OK",
       "oi_contracts": 21327129.7,
@@ -50,9 +50,9 @@
       "oi_gt_100": false
     },
     "SANDUSDT": {
-      "bar_time_utc": "2026-10-02T06:45:00+00:00",
-      "close": 0.0479,
-      "score": 0.47507530372297996,
+      "bar_time_utc": "2026-10-02T06:50:00+00:00",
+      "close": 0.04822,
+      "score": 0.5993394809604133,
       "state": "QUIET",
       "oi_status": "OK",
       "oi_contracts": 172842622.0,
@@ -61,9 +61,9 @@
       "oi_gt_100": true
     },
     "UNIUSDT": {
-      "bar_time_utc": "2026-10-02T06:45:00+00:00",
-      "close": 9.175,
-      "score": 0.28870142122943615,
+      "bar_time_utc": "2026-10-02T06:50:00+00:00",
+      "close": 9.177,
+      "score": 0.25112982610539347,
       "state": "QUIET",
       "oi_status": "OK",
       "oi_contracts": 27917152.0,
@@ -72,9 +72,9 @@
       "oi_gt_100": false
     },
     "MANAUSDT": {
-      "bar_time_utc": "2026-10-02T06:45:00+00:00",
-      "close": 0.0901,
-      "score": 0.29846292109185657,
+      "bar_time_utc": "2026-10-02T06:50:00+00:00",
+      "close": 0.0902,
+      "score": 0.3307932951347247,
       "state": "QUIET",
       "oi_status": "OK",
       "oi_contracts": 38821418.0,
@@ -83,9 +83,9 @@
       "oi_gt_100": false
     },
     "AAVEUSDT": {
-      "bar_time_utc": "2026-10-02T06:45:00+00:00",
-      "close": 185.74,
-      "score": 0.5527763055199819,
+      "bar_time_utc": "2026-10-02T06:50:00+00:00",
+      "close": 185.21,
+      "score": 0.5602633931991943,
       "state": "QUIET",
       "oi_status": "OK",
       "oi_contracts": 482147.9,
@@ -94,20 +94,20 @@
       "oi_gt_100": false
     },
     "DOTUSDT": {
-      "bar_time_utc": "2026-10-02T06:45:00+00:00",
-      "close": 1.221,
-      "score": 0.22056522518753233,
+      "bar_time_utc": "2026-10-02T06:50:00+00:00",
+      "close": 1.223,
+      "score": 0.21227836191375152,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 31471319.1,
-      "oi60_change_pct": -0.37297660836543844,
+      "oi_contracts": 31466095.2,
+      "oi60_change_pct": -0.20543169542016626,
       "oi_gt_050": false,
       "oi_gt_100": false
     },
     "ENSUSDT": {
-      "bar_time_utc": "2026-10-02T06:45:00+00:00",
+      "bar_time_utc": "2026-10-02T06:50:00+00:00",
       "close": 7.0,
-      "score": 0.1963759154504269,
+      "score": 0.2372166484204081,
       "state": "QUIET",
       "oi_status": "OK",
       "oi_contracts": 729445.5,
@@ -116,20 +116,20 @@
       "oi_gt_100": false
     },
     "LTCUSDT": {
-      "bar_time_utc": "2026-10-02T06:45:00+00:00",
-      "close": 70.16,
-      "score": 0.17686344546652846,
+      "bar_time_utc": "2026-10-02T06:50:00+00:00",
+      "close": 70.19,
+      "score": 0.16330160669048324,
       "state": "QUIET",
       "oi_status": "OK",
-      "oi_contracts": 1491251.828,
-      "oi60_change_pct": 0.05385712211987137,
+      "oi_contracts": 1492652.048,
+      "oi60_change_pct": 0.1547935451647664,
       "oi_gt_050": false,
       "oi_gt_100": false
     },
     "INJUSDT": {
-      "bar_time_utc": "2026-10-02T06:45:00+00:00",
-      "close": 7.524,
-      "score": 0.1925208933975316,
+      "bar_time_utc": "2026-10-02T06:50:00+00:00",
+      "close": 7.53,
+      "score": 0.19039210595693185,
       "state": "QUIET",
       "oi_status": "OK",
       "oi_contracts": 3864512.4,
@@ -138,9 +138,9 @@
       "oi_gt_100": false
     },
     "ONDOUSDT": {
-      "bar_time_utc": "2026-10-02T06:45:00+00:00",
-      "close": 0.5061,
-      "score": 0.35572384031872345,
+      "bar_time_utc": "2026-10-02T06:50:00+00:00",
+      "close": 0.5064,
+      "score": 0.31416858215594085,
       "state": "QUIET",
       "oi_status": "OK",
       "oi_contracts": 155926640.7,
@@ -149,9 +149,9 @@
       "oi_gt_100": false
     },
     "POLUSDT": {
-      "bar_time_utc": "2026-10-02T06:45:00+00:00",
-      "close": 0.1103,
-      "score": 0.16115360321385447,
+      "bar_time_utc": "2026-10-02T06:50:00+00:00",
+      "close": 0.11025,
+      "score": 0.14490681589553062,
       "state": "QUIET",
       "oi_status": "OK",
       "oi_contracts": 181923970.0,
@@ -160,9 +160,9 @@
       "oi_gt_100": false
     },
     "ENAUSDT": {
-      "bar_time_utc": "2026-10-02T06:45:00+00:00",
+      "bar_time_utc": "2026-10-02T06:50:00+00:00",
       "close": 0.2473,
-      "score": 0.2787854409719082,
+      "score": 0.25189603309093966,
       "state": "QUIET",
       "oi_status": "OK",
       "oi_contracts": 573848981.0,
@@ -171,9 +171,9 @@
       "oi_gt_100": false
     },
     "LDOUSDT": {
-      "bar_time_utc": "2026-10-02T06:45:00+00:00",
-      "close": 0.4533,
-      "score": 0.4567257468404418,
+      "bar_time_utc": "2026-10-02T06:50:00+00:00",
+      "close": 0.4528,
+      "score": 0.4359619837910546,
       "state": "QUIET",
       "oi_status": "OK",
       "oi_contracts": 40992380.0,
@@ -182,9 +182,9 @@
       "oi_gt_100": false
     },
     "PENDLEUSDT": {
-      "bar_time_utc": "2026-10-02T06:45:00+00:00",
-      "close": 2.461,
-      "score": 0.28149822235814437,
+      "bar_time_utc": "2026-10-02T06:50:00+00:00",
+      "close": 2.472,
+      "score": 0.344580872793308,
       "state": "QUIET",
       "oi_status": "OK",
       "oi_contracts": 9012011.0,
