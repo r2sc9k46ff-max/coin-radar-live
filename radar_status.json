@@ -1,59 +1,59 @@
 {
-  "generated_utc": "2026-10-04T11:21:22.063271+00:00",
+  "generated_utc": "2026-10-04T11:25:34.814425+00:00",
   "mode": "PAPER_ONLY",
   "version": "v3.0R-FROZEN",
   "threshold": 0.906158837049414,
   "order_routing": false,
   "symbols": {
     "XRPUSDT": {
-      "bar_time_utc": "2026-10-04 11:15:00+00:00",
-      "close": 1.4991,
-      "score": 0.0199584457468259,
+      "bar_time_utc": "2026-10-04 11:20:00+00:00",
+      "close": 1.5,
+      "score": 0.01769627495095698,
       "trigger": false
     },
     "ADAUSDT": {
-      "bar_time_utc": "2026-10-04 11:15:00+00:00",
-      "close": 0.245,
-      "score": 0.018669540952190054,
+      "bar_time_utc": "2026-10-04 11:20:00+00:00",
+      "close": 0.2453,
+      "score": 0.021177900955923243,
       "trigger": false
     },
     "SOLUSDT": {
-      "bar_time_utc": "2026-10-04 11:15:00+00:00",
-      "close": 121.29,
-      "score": 0.01967746795747078,
+      "bar_time_utc": "2026-10-04 11:20:00+00:00",
+      "close": 121.35,
+      "score": 0.019732230897319177,
       "trigger": false
     },
     "AVAXUSDT": {
-      "bar_time_utc": "2026-10-04 11:15:00+00:00",
-      "close": 11.025,
-      "score": 0.01778906923203378,
+      "bar_time_utc": "2026-10-04 11:20:00+00:00",
+      "close": 11.018,
+      "score": 0.01735632277791343,
       "trigger": false
     },
     "LINKUSDT": {
-      "bar_time_utc": "2026-10-04 11:15:00+00:00",
-      "close": 14.139,
-      "score": 0.018996409101719684,
+      "bar_time_utc": "2026-10-04 11:20:00+00:00",
+      "close": 14.13,
+      "score": 0.01703768475536941,
       "trigger": false
     },
     "ETCUSDT": {
-      "bar_time_utc": "2026-10-04 11:15:00+00:00",
+      "bar_time_utc": "2026-10-04 11:20:00+00:00",
       "close": 8.82,
-      "score": 0.01516323715763753,
+      "score": 0.016222992482902168,
       "trigger": false
     }
   },
   "paper_state": {
     "version": "v3.0R-forward",
-    "last_scanned_open_time": 1791112500000,
+    "last_scanned_open_time": 1791112800000,
     "last_trigger": {
       "LINKUSDT": 1790598000000
     },
     "open_events": {},
     "created_at_utc": "2026-09-24T15:52:28.215536+00:00",
-    "last_scan_utc": "2026-10-04T11:21:21.869094+00:00",
+    "last_scan_utc": "2026-10-04T11:25:34.618598+00:00",
     "closed_event_ids": [
       "LINKUSDT_1790598000000"
     ],
-    "last_state_engine_utc": "2026-10-04T11:21:21.957396+00:00"
+    "last_state_engine_utc": "2026-10-04T11:25:34.709602+00:00"
   }
 }
