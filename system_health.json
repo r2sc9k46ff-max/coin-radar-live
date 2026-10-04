@@ -1,15 +1,15 @@
 {
-  "generated_utc": "2026-10-04T21:51:40.431578+00:00",
+  "generated_utc": "2026-10-04T21:55:50.544421+00:00",
   "mode": "PAPER_ONLY",
   "order_routing": false,
   "database": {
     "status": "OK",
-    "latest_close_utc": "2026-10-04T21:49:59.999000+00:00",
-    "age_seconds": 100.4,
+    "latest_close_utc": "2026-10-04T21:54:59.999000+00:00",
+    "age_seconds": 50.5,
     "symbol_count": 25
   },
   "pipeline": {
     "status": "OK",
-    "last_health_line": "high_armed_rc=DISABLED high_armed_notify_rc=DISABLED oi_collect_rc=0 scan_rc=0 state_rc=0 notify_rc=0 export_rc=0 shadow_rc=0 shadow_log_rc=0 event_log_rc=0 audit_rc=0 trade_rc=1 shadow_notify_rc=0 eval_rc=0 publish_rc=0"
+    "last_health_line": "high_armed_rc=DISABLED high_armed_notify_rc=DISABLED oi_collect_rc=0 scan_rc=0 state_rc=0 notify_rc=0 export_rc=0 shadow_rc=0 shadow_log_rc=0 event_log_rc=0 audit_rc=0 trade_rc=0 shadow_notify_rc=0 eval_rc=0 publish_rc=0"
   }
 }
